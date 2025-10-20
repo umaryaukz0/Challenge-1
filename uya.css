@@ -1,6 +1,7 @@
 body{
     padding: 20px;
     font-family: sans-serif;
+    margin-left: 5%;
 }
 
 li{
@@ -19,7 +20,7 @@ ul{
     margin-top: -45px;
 }
 .first{
-    margin-left: 9%;
+    margin-left: 0%;
     margin-top: 8%;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -31,21 +32,48 @@ button{
     border-radius: 5px;
 }
 .pic{
-    height:300px ;
-    margin-left: 25%;
+    height:350px ;
+    margin-left: 30%;
     margin-top: -25%;
+    width: 35%;
 }
 .me{
-    margin-left:65% ;
-    margin-top:-35% ;
+    margin-left:80% ;
+    margin-top:-43% ;
 }
 .see{
     background-color: white;
     color: rgb(39, 36, 36);
-    width: 15%;
-    margin-left:10% ;
-    height: 10%;
+    width: 30%;
+    margin-left:7% ;
+    height: 35px;
     border-radius: 10px;
-    border-color: rgb(146, 141, 141);
+    border-color: rgb(199, 198, 198);
     
+}
+.bee{
+    margin-top: 8%;
+    font-size: 20px;
+    font-family: "arial";
+    color: rgba(90, 88, 88, 0.445);
+}
+.tee{
+    font-size: 16px;
+    margin-left: 14%;
+    margin-top: -4.3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgba(90, 88, 88, 0.445);
+}
+.ree{
+    margin-left: 25%;
+    margin-top: -3.6%;
+    font-size: 20px;
+    color: rgba(90, 88, 88, 0.445);
+}
+.dee{
+    margin-top: -3.5%;
+    margin-left:37% ;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: rgba(90, 88, 88, 0.445);
 }
